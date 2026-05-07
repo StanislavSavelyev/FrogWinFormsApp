@@ -34,3 +34,5 @@
 - C# / .NET 10.0
 - Windows Forms
 - System.Drawing (работа с изображениями)
+
+  <img width="1150" height="658" alt="Image" src="https://github.com/user-attachments/assets/116fed99-bc20-422d-be44-b1f58f06c436" />
